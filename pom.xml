@@ -164,6 +164,7 @@
             <version>${nohttp-checkstyle.version}</version>
           </dependency>
         </dependencies>
+        <executions>
         </executions>
         </plugin>
       <plugin>
